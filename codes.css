@@ -1,0 +1,95 @@
+<!DOCTYPE>
+
+<style>
+
+
+.heading-tittle {
+    font-family: bold;
+    color: white;
+    font-size: 24px;
+    background-color: rgb(112, 112, 245);
+    width:320px;
+    padding-top: 20px;
+    padding-bottom:20px;
+    text-align:center;
+  box-shadow:rgb(105, 102, 102);
+  border-radius:20px;
+
+
+}
+
+.top-text {
+font-family: bold;
+font-size: 20px;
+width:300;
+line-height: 25px;
+
+
+
+}
+
+{
+color:red;
+}
+.channel1-name {
+font-size: 20px;
+margin-bottom: 14px;
+color:rgba(96, 96, 96, 1);
+}
+.amazon-button {
+    background-color:rgb(112, 112, 245);
+    border:none;
+    height: 36px;
+    width: 75px;
+    color: white;
+    cursor:pointer;
+    border-radius:6px;
+    font-size:13px;
+    font-weight: bold;
+    transition: opasity 2s;
+
+}
+
+
+.amazon-button: hover{
+opacity: 0.3;
+
+}
+
+
+.video-start {
+font-family: Arial;
+font-size: 14px;
+color: gray;
+}
+.video-text {
+
+font-family:bold;
+font-size:20px;
+width:300px;
+color:rgb(96, 96, 96);
+line-height:20px;
+
+}
+.apple-text {
+background-color: rgb(227, 65, 64);
+padding-top: 16px;
+padding-bottom: 16px;
+text-align: center;
+color:white;
+
+
+}
+
+.span-text {
+text-decoration: underline;
+cursor:pointer;
+}
+
+
+</style>
+
+
+
+
+
